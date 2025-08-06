@@ -6,36 +6,36 @@ It's designed to help beginners and intermediate learners practice and strengthe
 ---
 
 ## 📁 Project Structure
-├──PHPPlaylist
-   ├──phppt/
-├── dir/
-│ ├── 1sayan.php
-│ └── 2sayan.php
-├── dir0/
-│ └── ...
-├── dir1/
-│ ├── 3index.php
-│ └── ...
-├── dir2/
-│ └── 4index.php
-├── dir3/
-│ ├── Indexboot.php
-│ ├── 01-variables.php
-│ ├── 06-variable2.php
-│ ├── 07datatypes.php
-│ ├── ...
-│ ├── 21get_post.php
-│ ├── 22MySql_Create_db.php
-│ ├── 23create_table.php
-│ ├── 25insert_data.php
-│ ├── 26Form.php
-│ ├── ...
-│ ├── 30.1_dbconnect.php
-│ ├── 31read.php
-│ ├── 32files.php
-│ ├── 36cookies.php
-│ ├── 39logout.php
-│ └── 40session_get_data.php
+├──PHPPlaylist <br>
+   ├──phppt/<br>
+├── dir/<br>
+│ ├── 1sayan.php<br>
+│ └── 2sayan.php<br>
+├── dir0/<br>
+│ └── ...<br>
+├── dir1/<br>
+│ ├── 3index.php<br>
+│ └── ...<br>
+├── dir2/<br>
+│ └── 4index.php<br>
+├── dir3/<br>
+│ ├── Indexboot.php<br>
+│ ├── 01-variables.php<br>
+│ ├── 06-variable2.php<br>
+│ ├── 07datatypes.php<br>
+│ ├── ...<br>
+│ ├── 21get_post.php<br>
+│ ├── 22MySql_Create_db.php<br>
+│ ├── 23create_table.php<br>
+│ ├── 25insert_data.php<br>
+│ ├── 26Form.php<br>
+│ ├── ...<br>
+│ ├── 30.1_dbconnect.php<br>
+│ ├── 31read.php<br>
+│ ├── 32files.php<br>
+│ ├── 36cookies.php<br>
+│ ├── 39logout.php<br>
+│ └── 40session_get_data.php<br>
 
 
 ---
