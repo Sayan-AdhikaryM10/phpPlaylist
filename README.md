@@ -98,9 +98,9 @@ It's designed to help beginners and intermediate learners practice and strengthe
 
 📷 Screenshots
 
-![PHP Playlist Screenshot]( /screenshot/main.png)
-![database Screenshot]( /screenshot/database1.png)
-![database Screenshot]( /screenshot/database2.png)
+![PHP Playlist Screenshot]( screenshort/main.png)
+![database Screenshot]( screenshort/databace1.png)
+![database Screenshot]( screenshort/databace2.png)
 
 ---
 
